@@ -28,4 +28,6 @@ jobs:
           git add README.md
           git commit -m "docs: update README.md" || echo "No changes to commit"
       - name: Push changes
-        run: git push
+        env:
+          REPOSITORY: "https://roaldnefs:${{ secrets.GITHUB_TOKEN }}@github.com/roaldnefs/awesome-developers.git"
+        run: git push $REPOSITORY main
