@@ -17,6 +17,7 @@ def main() -> None:
         toc += f"- [{ name }](#{ name.lower().replace(' ', '-') })\n"
 
         developers = section.get("developers", [])
+        developers = sorted(developers, key=lambda developer: developer["name"])
         for developer in developers:
             name = developer["name"]
             profile = developer["profile"]
@@ -39,7 +40,7 @@ def main() -> None:
                 "<br/><br/>\n\n"
             )
 
-        text += "[:up: Back to the top](#contents)\n\n"
+        text += "[:arrow_up_small: Back to the top](#contents)\n\n"
 
     replacement = toc + "\n" + text
 
