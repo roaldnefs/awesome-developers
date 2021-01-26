@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Open Source",
+        "description": "Featured open source developers.",
+        "developers": [
+            {
+                "name": "Eddie Jaoude",
+                "avatar": "https://avatars.githubusercontent.com/u/624760",
+                "profile": "https://github.com/eddiejaoude",
+                "languages": ["JavaScript"],
+                "ghstar": "https://stars.github.com/profiles/eddiejaoude/",
+                "featured": [
+                    {
+                        "name": "PipelineDashboard",
+                        "link": "https://github.com/DashboardHub/PipelineDashboard"
+                    },
+                    {
+                        "name": "awesome-github-profiles",
+                        "link": "https://github.com/EddieJaoudeCommunity/awesome-github-profiles"
+                    }
+                ]
+            },
+            {
+                "name": "Sindre Sorhus",
+                "avatar": "https://avatars.githubusercontent.com/u/170270",
+                "profile": "https://github.com/sindresorhus",
+                "languages": ["Swift", "JavaScript"],
+                "featured": [
+                    {
+                        "name": "Gifski",
+                        "link": "https://github.com/sindresorhus/Gifski"
+                    },
+                    {
+                        "name": "awesome",
+                        "link": "https://github.com/sindresorhus/awesome"
+                    },
+                    {
+                        "name": "xo",
+                        "link": "https://github.com/xojs/xo"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,12 +1,31 @@
 name: CI
 on:
-  pull_request:
-    branches: [main]
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */6 * * *'
 jobs:
-  Awesome_Lint:
+  build:
     runs-on: ubuntu-latest
     steps:
+      - name: Configure Git for Github
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
       - uses: actions/checkout@v2
         with:
+          persist-credentials: false
           fetch-depth: 0
-      - run: npx awesome-lint
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Re-generate README.md
+        run: python generate.py
+      - name: Commit README.md
+        run: |
+          git add README.md
+          git commit -m "docs: update README.md" || echo "No changes to commit"
+      - name: Push changes
+        run: git push

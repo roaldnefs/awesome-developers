@@ -1,0 +1,19 @@
+name: awesome-lint
+on:
+  pull_request:
+    branches: [main]
+jobs:
+  Awesome_Lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Re-generate README.md
+        run: python generate.py
+      - name: Run awesome-lint
+        run: npx awesome-lint
