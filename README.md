@@ -37,6 +37,6 @@ Languages: `Swift`, `JavaScript`\
 Featured Projects: [Gifski]( https://github.com/sindresorhus/Gifski), [awesome]( https://github.com/sindresorhus/awesome), [xo]( https://github.com/xojs/xo)
 <br/><br/>
 
-[:up: Back to the top](#contents)
+[:arrow_up_small: Back to the top](#contents)
 
 <!-- REPLACEMENT_END -->
