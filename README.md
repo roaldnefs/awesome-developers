@@ -19,6 +19,7 @@
 <!-- REPLACEMENT_START -->
 ## Contents
 - [Open Source](#open-source)
+- [Linux](#linux)
 
 ## Open Source
 Featured open source developers.
@@ -35,6 +36,18 @@ Featured Projects: [PipelineDashboard]( https://github.com/DashboardHub/Pipeline
 [**Sindre Sorhus**](https://github.com/sindresorhus) \
 Languages: `Swift`, `JavaScript`\
 Featured Projects: [Gifski]( https://github.com/sindresorhus/Gifski), [awesome]( https://github.com/sindresorhus/awesome), [xo]( https://github.com/xojs/xo)
+<br/><br/>
+
+[:arrow_up_small: Back to the top](#contents)
+
+## Linux
+Featured Linux developers.
+
+[<img align="left" height="94px" width="94px" alt="Martin Wimpress avatar" src="https://avatars.githubusercontent.com/u/304639"/>](https://github.com/flexiondotorg)
+
+[**Martin Wimpress**](https://github.com/flexiondotorg) \
+Languages: `Shell`\
+Featured Projects: [mircapture]( https://github.com/flexiondotorg/mircapture), [yaru]( https://github.com/ubuntu/yaru)
 <br/><br/>
 
 [:arrow_up_small: Back to the top](#contents)
