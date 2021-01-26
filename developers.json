@@ -41,5 +41,27 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Linux",
+        "description": "Featured Linux developers.",
+        "developers": [
+            {
+                "name": "Martin Wimpress",
+                "avatar": "https://avatars.githubusercontent.com/u/304639",
+                "profile": "https://github.com/flexiondotorg",
+                "languages": ["Shell"],
+                "featured": [
+                    {
+                        "name": "mircapture",
+                        "link": "https://github.com/flexiondotorg/mircapture"
+                    },
+                    {
+                        "name": "yaru",
+                        "link": "https://github.com/ubuntu/yaru"
+                    }
+                ]
+            }
+        ]
     }
 ]
