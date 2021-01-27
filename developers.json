@@ -39,6 +39,47 @@
                         "link": "https://github.com/xojs/xo"
                     }
                 ]
+            },
+            {
+                "name": "Jess Frazelle",
+                "avatar": "https://avatars.githubusercontent.com/u/1445228",
+                "profile": "https://github.com/jessfraz",
+                "languages": ["Go", "Dockerfile", "Shell"],
+                "featured": [
+                    {
+                        "name": "dockerfiles",
+                        "link": "https://github.com/jessfraz/dockerfiles"
+                    },
+                    {
+                        "name": "genuinetools/img",
+                        "link": "https://github.com/genuinetools/img"
+                    },
+                    {
+                        "name": "dotfiles",
+                        "link": "https://github.com/jessfraz/dotfiles"
+                    }
+                ]
+            },
+            {
+                "name": "Mariatta Wijaya",
+                "avatar": "https://avatars.githubusercontent.com/u/5844587",
+                "profile": "https://github.com/Mariatta",
+                "languages": ["Python"],
+                "ghreadme": "https://github.com/readme/mariatta-wijaya",
+                "featured": [
+                    {
+                        "name": "python/cpython",
+                        "link": "python/cpython"
+                    },
+                    {
+                        "name": "pyladies/pyladies",
+                        "link": "https://github.com/pyladies/pyladies"
+                    },
+                    {
+                        "name": "brettcannon/gidgethub",
+                        "link": "https://github.com/brettcannon/gidgethub"
+                    }
+                ]
             }
         ]
     },
@@ -57,7 +98,7 @@
                         "link": "https://github.com/flexiondotorg/mircapture"
                     },
                     {
-                        "name": "yaru",
+                        "name": "ubuntu/yaru",
                         "link": "https://github.com/ubuntu/yaru"
                     }
                 ]
@@ -89,11 +130,11 @@
                 "languages": ["Shell", "C", "C++"],
                 "featured": [
                     {
-                        "name": "plasma-workspace",
+                        "name": "KDE/plasma-workspace",
                         "link": "https://github.com/KDE/plasma-workspace"
                     },
                     {
-                        "name": "plasma-desktop",
+                        "name": "KDE/plasma-desktop",
                         "link": "https://github.com/KDE/plasma-desktop"
                     }
                 ]

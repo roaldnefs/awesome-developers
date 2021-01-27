@@ -32,6 +32,10 @@ def main() -> None:
             if ghstar: 
                 badges.append(f"[:star:]({ ghstar })")
 
+            ghreadme = developer.get("ghreadme")
+            if ghreadme:
+                badges.append(f"[:page_facing_up:]({ ghreadme })")
+
             text += (
                 f"[<img align=\"left\" height=\"94px\" width=\"94px\" alt=\"{ name } avatar\" src=\"{ avatar }\"/>]({ profile })\n\n"
                 f"[**{ name }**]({ profile}) { ' '.join(badges) }\\\n"
