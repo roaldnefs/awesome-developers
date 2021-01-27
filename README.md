@@ -31,6 +31,20 @@ Languages: `JavaScript`\
 Featured Projects: [PipelineDashboard]( https://github.com/DashboardHub/PipelineDashboard), [awesome-github-profiles]( https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <br/><br/>
 
+[<img align="left" height="94px" width="94px" alt="Jess Frazelle avatar" src="https://avatars.githubusercontent.com/u/1445228"/>](https://github.com/jessfraz)
+
+[**Jess Frazelle**](https://github.com/jessfraz) \
+Languages: `Go`, `Dockerfile`, `Shell`\
+Featured Projects: [dockerfiles]( https://github.com/jessfraz/dockerfiles), [genuinetools/img]( https://github.com/genuinetools/img), [dotfiles]( https://github.com/jessfraz/dotfiles)
+<br/><br/>
+
+[<img align="left" height="94px" width="94px" alt="Mariatta Wijaya avatar" src="https://avatars.githubusercontent.com/u/5844587"/>](https://github.com/Mariatta)
+
+[**Mariatta Wijaya**](https://github.com/Mariatta) [:page_facing_up:](https://github.com/readme/mariatta-wijaya)\
+Languages: `Python`\
+Featured Projects: [python/cpython]( python/cpython), [pyladies/pyladies]( https://github.com/pyladies/pyladies), [brettcannon/gidgethub]( https://github.com/brettcannon/gidgethub)
+<br/><br/>
+
 [<img align="left" height="94px" width="94px" alt="Sindre Sorhus avatar" src="https://avatars.githubusercontent.com/u/170270"/>](https://github.com/sindresorhus)
 
 [**Sindre Sorhus**](https://github.com/sindresorhus) \
@@ -54,14 +68,14 @@ Featured Projects: [zxfer]( https://github.com/allanjude/zxfer), [depenguinator]
 
 [**Martin Wimpress**](https://github.com/flexiondotorg) \
 Languages: `Shell`\
-Featured Projects: [mircapture]( https://github.com/flexiondotorg/mircapture), [yaru]( https://github.com/ubuntu/yaru)
+Featured Projects: [mircapture]( https://github.com/flexiondotorg/mircapture), [ubuntu/yaru]( https://github.com/ubuntu/yaru)
 <br/><br/>
 
 [<img align="left" height="94px" width="94px" alt="Nate Graham avatar" src="https://avatars.githubusercontent.com/u/1097249"/>](https://github.com/Pointedstick)
 
 [**Nate Graham**](https://github.com/Pointedstick) \
 Languages: `Shell`, `C`, `C++`\
-Featured Projects: [plasma-workspace]( https://github.com/KDE/plasma-workspace), [plasma-desktop]( https://github.com/KDE/plasma-desktop)
+Featured Projects: [KDE/plasma-workspace]( https://github.com/KDE/plasma-workspace), [KDE/plasma-desktop]( https://github.com/KDE/plasma-desktop)
 <br/><br/>
 
 [:arrow_up_small: Back to the top](#contents)
