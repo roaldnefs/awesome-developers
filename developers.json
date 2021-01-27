@@ -61,6 +61,42 @@
                         "link": "https://github.com/ubuntu/yaru"
                     }
                 ]
+            },
+            {
+                "name": "Allan Jude",
+                "avatar": "https://avatars.githubusercontent.com/u/1096028",
+                "profile": "https://github.com/allanjude",
+                "languages": ["Shell", "C"],
+                "featured": [
+                    {
+                        "name": "zxfer",
+                        "link": "https://github.com/allanjude/zxfer"
+                    },
+                    {
+                        "name": "depenguinator",
+                        "link": "https://github.com/allanjude/depenguinator"
+                    },
+                    {
+                        "name": "bhyveucl",
+                        "link": "https://github.com/allanjude/bhyveucl"
+                    }
+                ]
+            },
+            {
+                "name": "Nate Graham",
+                "avatar": "https://avatars.githubusercontent.com/u/1097249",
+                "profile": "https://github.com/Pointedstick",
+                "languages": ["Shell", "C", "C++"],
+                "featured": [
+                    {
+                        "name": "plasma-workspace",
+                        "link": "https://github.com/KDE/plasma-workspace"
+                    },
+                    {
+                        "name": "plasma-desktop",
+                        "link": "https://github.com/KDE/plasma-desktop"
+                    }
+                ]
             }
         ]
     }
