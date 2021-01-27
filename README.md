@@ -43,11 +43,25 @@ Featured Projects: [Gifski]( https://github.com/sindresorhus/Gifski), [awesome](
 ## Linux
 Featured Linux developers.
 
+[<img align="left" height="94px" width="94px" alt="Allan Jude avatar" src="https://avatars.githubusercontent.com/u/1096028"/>](https://github.com/allanjude)
+
+[**Allan Jude**](https://github.com/allanjude) \
+Languages: `Shell`, `C`\
+Featured Projects: [zxfer]( https://github.com/allanjude/zxfer), [depenguinator]( https://github.com/allanjude/depenguinator), [bhyveucl]( https://github.com/allanjude/bhyveucl)
+<br/><br/>
+
 [<img align="left" height="94px" width="94px" alt="Martin Wimpress avatar" src="https://avatars.githubusercontent.com/u/304639"/>](https://github.com/flexiondotorg)
 
 [**Martin Wimpress**](https://github.com/flexiondotorg) \
 Languages: `Shell`\
 Featured Projects: [mircapture]( https://github.com/flexiondotorg/mircapture), [yaru]( https://github.com/ubuntu/yaru)
+<br/><br/>
+
+[<img align="left" height="94px" width="94px" alt="Nate Graham avatar" src="https://avatars.githubusercontent.com/u/1097249"/>](https://github.com/Pointedstick)
+
+[**Nate Graham**](https://github.com/Pointedstick) \
+Languages: `Shell`, `C`, `C++`\
+Featured Projects: [plasma-workspace]( https://github.com/KDE/plasma-workspace), [plasma-desktop]( https://github.com/KDE/plasma-desktop)
 <br/><br/>
 
 [:arrow_up_small: Back to the top](#contents)
