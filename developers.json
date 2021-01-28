@@ -80,6 +80,23 @@
                         "link": "https://github.com/brettcannon/gidgethub"
                     }
                 ]
+            },
+            {
+                "name": "Monica Powell",
+                "avatar": "https://avatars.githubusercontent.com/u/6998954",
+                "profile": "https://github.com/m0nica",
+                "languages": ["JavaScript"],
+                "ghstar": "https://stars.github.com/profiles/m0nica/",
+                "featured": [
+                    {
+                        "name": "React-Ladies",
+                        "link": "https://github.com/M0nica/React-Ladies"
+                    },
+                    {
+                        "name": "gatsby-workshop",
+                        "link": "https://github.com/M0nica/gatsby-workshop"
+                    }
+                ]
             }
         ]
     },
