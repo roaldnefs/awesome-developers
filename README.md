@@ -45,6 +45,13 @@ Languages: `Python`\
 Featured Projects: [python/cpython]( python/cpython), [pyladies/pyladies]( https://github.com/pyladies/pyladies), [brettcannon/gidgethub]( https://github.com/brettcannon/gidgethub)
 <br/><br/>
 
+[<img align="left" height="94px" width="94px" alt="Monica Powell avatar" src="https://avatars.githubusercontent.com/u/6998954"/>](https://github.com/m0nica)
+
+[**Monica Powell**](https://github.com/m0nica) [:star:](https://stars.github.com/profiles/m0nica/)\
+Languages: `JavaScript`\
+Featured Projects: [React-Ladies]( https://github.com/M0nica/React-Ladies), [gatsby-workshop]( https://github.com/M0nica/gatsby-workshop)
+<br/><br/>
+
 [<img align="left" height="94px" width="94px" alt="Sindre Sorhus avatar" src="https://avatars.githubusercontent.com/u/170270"/>](https://github.com/sindresorhus)
 
 [**Sindre Sorhus**](https://github.com/sindresorhus) \
