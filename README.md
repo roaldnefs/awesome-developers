@@ -24,6 +24,13 @@
 ## Open Source
 Featured open source developers.
 
+[<img align="left" height="94px" width="94px" alt="Anthony Sottile avatar" src="https://avatars.githubusercontent.com/u/1810591"/>](https://github.com/asottile)
+
+[**Anthony Sottile**](https://github.com/asottile) \
+Languages: `Python`\
+Featured Projects: [pre-commit/pre-commit]( https://github.com/pre-commit/pre-commit), [tox-dev/tox]( https://github.com/tox-dev/tox), [pytest-dev/pytest]( https://github.com/pytest-dev/pytest)
+<br/><br/>
+
 [<img align="left" height="94px" width="94px" alt="Eddie Jaoude avatar" src="https://avatars.githubusercontent.com/u/624760"/>](https://github.com/eddiejaoude)
 
 [**Eddie Jaoude**](https://github.com/eddiejaoude) [:star:](https://stars.github.com/profiles/eddiejaoude/)\
