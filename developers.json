@@ -97,6 +97,26 @@
                         "link": "https://github.com/M0nica/gatsby-workshop"
                     }
                 ]
+            },
+            {
+                "name": "Anthony Sottile",
+                "avatar": "https://avatars.githubusercontent.com/u/1810591",
+                "profile": "https://github.com/asottile",
+                "languages": ["Python"],
+                "featured": [
+                    {
+                        "name": "pre-commit/pre-commit",
+                        "link": "https://github.com/pre-commit/pre-commit"
+                    },
+                    {
+                        "name": "tox-dev/tox",
+                        "link": "https://github.com/tox-dev/tox"
+                    },
+                    {
+                        "name": "pytest-dev/pytest",
+                        "link": "https://github.com/pytest-dev/pytest"
+                    }
+                ]
             }
         ]
     },
