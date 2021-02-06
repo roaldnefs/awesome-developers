@@ -117,6 +117,26 @@
                         "link": "https://github.com/pytest-dev/pytest"
                     }
                 ]
+            },
+            {
+                "name": "Jessica Lord",
+                "avatar": "https://avatars.githubusercontent.com/u/1305617",
+                "profile": "https://github.com/jlord",
+                "languages": ["JavaScript"],
+                "featured": [
+                    {
+                        "name": "git-it-electron",
+                        "link": "https://github.com/jlord/git-it-electron"
+                    },
+                    {
+                        "name": "sheetsee.js",
+                        "link": "https://github.com/jlord/sheetsee.js"
+                    },
+                    {
+                        "name": "offline-issues",
+                        "link": "https://github.com/jlord/offline-issues"
+                    }
+                ]
             }
         ]
     },
