@@ -45,6 +45,13 @@ Languages: `Go`, `Dockerfile`, `Shell`\
 Featured Projects: [dockerfiles]( https://github.com/jessfraz/dockerfiles), [genuinetools/img]( https://github.com/genuinetools/img), [dotfiles]( https://github.com/jessfraz/dotfiles)
 <br/><br/>
 
+[<img align="left" height="94px" width="94px" alt="Jessica Lord avatar" src="https://avatars.githubusercontent.com/u/1305617"/>](https://github.com/jlord)
+
+[**Jessica Lord**](https://github.com/jlord) \
+Languages: `JavaScript`\
+Featured Projects: [git-it-electron]( https://github.com/jlord/git-it-electron), [sheetsee.js]( https://github.com/jlord/sheetsee.js), [offline-issues]( https://github.com/jlord/offline-issues)
+<br/><br/>
+
 [<img align="left" height="94px" width="94px" alt="Mariatta Wijaya avatar" src="https://avatars.githubusercontent.com/u/5844587"/>](https://github.com/Mariatta)
 
 [**Mariatta Wijaya**](https://github.com/Mariatta) [:page_facing_up:](https://github.com/readme/mariatta-wijaya)\
